@@ -40,3 +40,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+## Database ##
+.db
+
+## Logs ##
+.log
+
+## Env ##
+.env
