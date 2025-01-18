@@ -26,9 +26,8 @@ GREEN_TICK_URL=url_to_green_tick_icon
 ```
 ### Build and Run
 
-Use Gradle to build the project.
-
-Run the MessageLogger class to start the bot.
+- Use Gradle to build the project.
+- Run the MessageLogger class to start the bot.
 
 
 ### Usage
