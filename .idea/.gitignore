@@ -47,6 +47,7 @@ bin/
 
 ## Database ##
 *.db
+.db
 
 ## Logs ##
 .log
